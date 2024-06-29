@@ -4,21 +4,21 @@ body {
 }
 
 h1 {
-	font-family: "IBM Plex Sans";
+	font-family: "IBM Plex Mono";
 	font-weight: 600;
 	font-size: 3vh;
 	color: #ed0181;
 }
 
 p {
-	font-family: "IBM Plex Sans";
+	font-family: "IBM Plex Mono";
 	font-weight: 300;
 	font-size: 2vh;
 	color: #fff;
 }
 
 a {
-	font-family: "IBM Plex Sans";
+	font-family: "IBM Plex Mono";
 	font-weight: 600;
 	font-size: 2vh;
 	text-decoration: none;
