@@ -15,3 +15,9 @@ p {
 	color: #fff;
 }
 
+a {
+	font-family: "IBMPlexMono-SemiBold";
+	font-size: 1.5vh;
+	text-decoration: none;
+	color: #ff3914;
+}
