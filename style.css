@@ -1,0 +1,26 @@
+body {
+	padding: 5vh 70vh 5vh 10vh;
+	background: #000002;
+}
+
+h1 {
+	font-family: "IBM Plex Sans";
+	font-weight: 600;
+	font-size: 3vh;
+	color: #ed0181;
+}
+
+p {
+	font-family: "IBM Plex Sans";
+	font-weight: 300;
+	font-size: 2vh;
+	color: #fff;
+}
+
+a {
+	font-family: "IBM Plex Sans";
+	font-weight: 600;
+	font-size: 2vh;
+	text-decoration: none;
+	color: #ff3914;
+}
