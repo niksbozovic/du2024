@@ -1,23 +1,23 @@
 body {
-	padding: 5vh 70vh 5vh 10vh;
+	padding: 10vh 50vh 5vh 10vh;
 	background: #000002;
 }
 
 h1 {
 	font-family: "IBMPlexMono-SemiBold";
-	font-size: 3vh;
+	font-size: 2.5vh;
 	color: #ed0181;
 }
 
 p {
 	font-family: "IBMPlexMono-Light";
-	font-size: 2vh;
+	font-size: 1.5vh;
 	color: #fff;
 }
 
 a {
 	font-family: "IBMPlexMono-SemiBold";
-	font-size: 2vh;
+	font-size: 1.5vh;
 	text-decoration: none;
 	color: #ff3914;
 }
