@@ -11,13 +11,13 @@ h1 {
 
 p {
 	font-family: "IBMPlexMono-Light";
-	font-size: 1vh;
+	font-size: 1.25vh;
 	color: #fff;
 }
 
 a {
 	font-family: "IBMPlexMono-SemiBold";
-	font-size: 1vh;
+	font-size: 1.25vh;
 	text-decoration: none;
 	color: #ff3914;
 }
